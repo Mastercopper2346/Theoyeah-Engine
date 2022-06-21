@@ -1,6 +1,7 @@
 package flixel.input.keyboard;
 
 import flixel.input.FlxBaseKeyList;
+import flixel.input.keyboard.FlxKeyList;
 
 /**
  * A helper class for keyboard input.

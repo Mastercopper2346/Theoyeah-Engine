@@ -1,6 +1,7 @@
 package flixel.input.keyboard;
 
 import flixel.system.macros.FlxMacroUtil;
+import flixel.input.keyboard.FlxKey;
 
 /**
  * Maps enum values and strings to integer keycodes.
